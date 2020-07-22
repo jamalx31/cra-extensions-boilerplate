@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a boilerplate to use create-react-app for Chrome extensions development .
+For more details, check out [the full tutorial](https://www.jamalx31.com/tech-posts/use-create-react-app-to-develop-chrome-extensions)
+
 ## Available Scripts
 
 In the project directory, you can run:
